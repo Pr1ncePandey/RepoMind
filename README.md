@@ -1,6 +1,12 @@
 
 # RepoMind — Claude Skill
 
+## Video Demo
+
+See the full workflow below.
+
+![RepoMind Demo](assets/demo.gif)
+
 > Turn any GitHub repository into a clear architecture map, explanation, and insights using Claude.
 
 RepoMind is a **Claude Skill** that analyzes a GitHub repository and returns a structured breakdown of the project: architecture, key files, tech stack, and insights.
@@ -34,20 +40,6 @@ This makes exploring open‑source projects dramatically faster.
 ![Output Example](assets/output-example.png)
 
 ![Output Example Continued](assets/output-example1.png)
-
----
-
-## Video Demo
-
-See the full workflow below.
-
-assets/demo.gif
-
-The demo shows:
-
-1. Uploading the skill
-2. Providing a GitHub repository link
-3. Claude generating the repository breakdown
 
 ---
 
@@ -88,9 +80,7 @@ Claude will return:
 
 RepoMind can even generate visual architecture maps for large projects.
 
-You can optionally include generated diagrams like:
-
-assets/architecture.svg
+![Next.js Architecture Map](assets/architecture.svg)
 
 This helps developers understand complex codebases instantly.
 
